@@ -1,0 +1,4 @@
+name: euler
+dependencies:
+  crypto:
+  args:
